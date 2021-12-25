@@ -1,4 +1,4 @@
-state,reigion,division,population,income,illiteracy,life_exp,murder,hs_grad,frost,area,area_group
+state,region,division,population,income,illiteracy,life_exp,murder,hs_grad,frost,area,area_group
 Alabama,South,East South Central,3615,3624,2.1,69.05,15.1,41.3,20,50708,Medium
 Alaska,West,Pacific,365,6315,1.5,69.31,11.3,66.7,152,566432,Large
 Arizona,West,Mountain,2212,4530,1.8,70.55,7.8,58.1,15,113417,Large
