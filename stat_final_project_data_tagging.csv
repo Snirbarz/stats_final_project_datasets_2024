@@ -2,7 +2,7 @@ data,test,dependent_var,independent_var1,independent_var2,extra_independent_vars
 smoke_ban,Chi squared,,smoker,ban_on_smoking_in_the_workplace,,
 smoke_ban,Chi squared,,smoker,gender,,
 smoke_ban,ANOVA 2-way,age,smoker,,gender,
-bfi,Regression,make_friends_easily;make_people_feel_at_ease;often_feel_blue,inquire_about_others_well-being;get_angry_easily;get_irritated_easily;carry_the_conversation_to_a_higher_level;dont_talk_a_lot;love_children;know_how_to_comfort_others,,,
+bfi,Regression,make_friends_easily;make_people_feel_at_ease;often_feel_blue,inquire_about_others_well_being;get_angry_easily;get_irritated_easily;carry_the_conversation_to_a_higher_level;dont_talk_a_lot;love_children;know_how_to_comfort_others,,,
 bfi,independent samples t-test,take_charge;do_things_according_to_a_plan;do_things_in_a_half_way_manner;continue_until_everything_is_perfect;know_how_to_comfort_others,gender,,,
 bfi,Chi squared,,gender,education,,
 bfi,ANOVA 2-way,avoid_difficult_reading_material;do_things_according_to_a_plan;do_things_in_a_half_way_manner;continue_until_everything_is_perfect;often_feel_blue;spend_time_reflecting_on_things,gender,,education,
