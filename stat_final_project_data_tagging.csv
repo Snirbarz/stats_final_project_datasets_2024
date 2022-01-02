@@ -15,7 +15,7 @@ siegel_etal_2017_both_studies,Chi squared,,gender,handedness,,,
 unit_asking_replication_data,Regression,donate,age,,,,
 unit_asking_replication_data,ANOVA 2-way,donate,condition,female,,,
 unit_asking_replication_data,ANOVA 1-way,donate,condition,,female,,
-unit_asking_replication_data,Repeated Measures ANOVA,donate;unit_donate,donate;unit_donate,,,"two measures are ""how much would you donate for 1"" (unit_donate) and ""how much would you donate for 20"" (donate). Only condition 2 has both.",
+unit_asking_replication_data_long,Repeated Measures ANOVA,donation_amount,donation_type,,,"two measures are ""how much would you donate for 1"" (unit_donate) and ""how much would you donate for 20"" (donate). Only condition 2 has both.",
 morality_and_cleanliness,ANOVA 1-way,dog;trolley;wallet;plane;resume;kitten,condition,,,,vignette response
 morality_and_cleanliness,independent samples t-test,dog;trolley;wallet;plane;resume;kitten,condition,,,,vignette response
 morality_and_cleanliness,Regression,dog;trolley;wallet;plane;resume;kitten,dog;trolley;wallet;plane;resume;kitten,,,make sure not to regress a variable with itself,vignette response
