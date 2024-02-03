@@ -34,5 +34,5 @@ states,Regression,population;income;illiteracy;life_exp;murders;hs_grad;frost;ar
 states,Spearman correlation,population;income;illiteracy;life_exp;murders;hs_grad;frost;area,population;income;illiteracy;life_exp;murders;hs_grad;frost;area,,,,
 morality_and_cleanliness,ANOVA 1-way,all_vignettes,condition,,,,
 morality_and_cleanliness,independent samples t-test,all_vignettes,condition,,,,
-stroop,Repeated Measures ANOVA,correct;latency,color;values.congruency,,,,
-stroop,paired t-test,latency,values.congruency,,,,
+stroop,Repeated Measures ANOVA,correct;latency,color;values_congruency,,,,
+stroop,paired t-test,latency,values_congruency,,,,
