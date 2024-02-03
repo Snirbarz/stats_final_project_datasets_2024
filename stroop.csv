@@ -1,4 +1,4 @@
-subject,values.congruency,correct,latency,color
+subject,values_congruency,correct,latency,color
 1,1,0.941176471,600.3529412,black
 1,1,1,605.5,red
 1,1,1,623.3333333,blue
