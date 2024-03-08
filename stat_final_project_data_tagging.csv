@@ -23,7 +23,7 @@ morality_and_cleanliness,ANOVA 2-way,dog;trolley;wallet;plane;resume;kitten;all_
 morality_and_cleanliness,independent samples t-test,dog;trolley;wallet;plane;resume;kitten,condition,,,,vignette response
 morality_and_cleanliness,Regression,dog;trolley;wallet;plane;resume;kitten,dog;trolley;wallet;plane;resume;kitten,,,make sure not to regress a variable with itself,vignette response
 morality_and_cleanliness,Pearson correlation,dog;trolley;wallet;plane;resume;kitten,dog;trolley;wallet;plane;resume;kitten,,,make sure not to regress a variable with itself,vignette response
-morality_and_cleanliness_long,Repeated Measures ANOVA,vignette_response,type,gender,,"each IV is a different measure, and its value is the corresponding DV",
+morality_and_cleanliness_long,Repeated Measures ANOVA,vignette_response,type,,,"each IV is a different measure, and its value is the corresponding DV",
 pokedex,independent samples t-test,attack;defense;height_m;hp;sp_attack;sp_defense;speed,smaller_than_pikachu,,,,
 pokedex,independent samples t-test,attack;defense;height_m;hp;sp_attack;sp_defense;speed;weight_kg,is_legendary,,,,
 pokedex,ANOVA 1-way,attack;defense;height_m;hp;sp_attack;sp_defense;speed;weight_kg,type;generation,,,,
