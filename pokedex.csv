@@ -676,7 +676,7 @@ pokedex_number,name,generation,type,height_m,weight_kg,hp,attack,defense,sp_atta
 576,Gothitelle,5,Psychic,1.5,44,70,55,95,95,110,65,Medium Slow,0,1,0,50.2
 577,Solosis,5,Psychic,0.3,1,45,30,40,105,50,20,Medium Slow,1,1,0,50
 578,Duosion,5,Psychic,0.6,8,65,40,50,125,60,30,Medium Slow,0,1,0,50.2
-579,Reuniclus,5,Psychic,1,20.1,110,65,75,125,85,30,Medium Slow,0,1,0,50*
+579,Reuniclus,5,Psychic,1,20.1,110,65,75,125,85,30,Medium Slow,0,1,0,50
 580,Ducklett,5,Water,0.5,5.5,62,44,50,44,50,55,Medium Fast,1,2,0,50.2
 581,Swanna,5,Water,1.3,24.2,75,87,63,87,63,98,Medium Fast,0,2,0,50.2
 582,Vanillite,5,Ice,0.4,5.7,36,50,50,65,60,44,Slow,1,0,0,50.2
@@ -874,7 +874,7 @@ pokedex_number,name,generation,type,height_m,weight_kg,hp,attack,defense,sp_atta
 746,Wishiwashi School Form,7,Water,8.2,78.6,45,140,130,140,135,30,Fast,0,3,0,50.2
 747,Mareanie,7,Poison,0.4,8,50,53,62,43,52,45,Medium Fast,0,2,0,50.2
 748,Toxapex,7,Poison,0.7,14.5,50,63,152,53,142,35,Medium Fast,0,2,0,50.2
-749,Mudbray,7,Ground,1,110,70,100,70,45,55,45,Medium Fast,0,2,0,50*
+749,Mudbray,7,Ground,1,110,70,100,70,45,55,45,Medium Fast,0,2,0,50
 750,Mudsdale,7,Ground,2.5,920,100,125,100,55,85,35,Medium Fast,0,2,0,50.2
 751,Dewpider,7,Water,0.3,4,38,40,52,40,72,27,Medium Fast,1,2,0,50.2
 752,Araquanid,7,Water,1.8,82,68,70,92,50,132,42,Medium Fast,0,2,0,50.2
