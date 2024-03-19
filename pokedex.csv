@@ -1,4 +1,4 @@
-pokedex_number,name,generation,type,height_m,weight_kg,hp,attack,defense,sp_attack,sp_defense,speed,growth_rate,smaller_than_pikachu,growth_rate_number,is_legendary,percent_male
+pokedex_number,name,generation,type,height_m,weight_kg,hp,attack,defense,sp_attack,sp_defense,speed,growth_rate,smaller_than_pikachu,growth_rate_number,is_legendary,percentage_male
 1,Bulbasaur,1,Grass,0.7,6.9,45,49,49,65,65,45,Medium Slow,0,1,0,88.14
 2,Ivysaur,1,Grass,1,13,60,62,63,80,80,60,Medium Slow,0,1,0,88.14
 3,Venusaur,1,Grass,2,100,80,82,83,100,100,80,Medium Slow,0,1,0,88.14
