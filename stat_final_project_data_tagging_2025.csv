@@ -19,10 +19,12 @@ siegel_etal_2017_both_studies_b,ANOVA 2-way,mean_face_rating,handedness,,gender;
 siegel_etal_2017_both_studies_b,ANOVA 2-way,mean_face_rating,gender,,handedness;social_anxiety,question about influence of gender after subsetting masked face for only smiling/neutral/scowling,
 unit_asking_replication_data,Regression,donate,age;math_score,,,,
 unit_asking_replication_data,ANOVA 2-way,donate,condition,female,,,
-unit_asking_replication_data,ANOVA 1-way,donate,condition,,female,,
+unit_asking_replication_data,Contrast test,donate,condition,,,,
+unit_asking_replication_data,unit_asking_replication_data,,,,,,
 unit_asking_replication_data,independent samples t-test,math_score,female,,,,
 unit_asking_replication_data_long,paired t-test,donation_amount,donation_type,,,"two measures are ""how much would you donate for 1"" (unit_donate) and ""how much would you donate for 20"" (donate). Only condition 2 has both.",
 morality_and_cleanliness,ANOVA 1-way,dog;trolley;wallet;plane;resume;kitten;all_vignettes,condition,,,,vignette response
+morality_and_cleanliness,Contrast test,dog;trolley;wallet;plane;resume;kitten;all_vignettes,condition,,,,
 morality_and_cleanliness,ANOVA 2-way,dog;trolley;wallet;plane;resume;kitten;all_vignettes,condition,gender,,,vignette response
 morality_and_cleanliness,independent samples t-test,dog;trolley;wallet;plane;resume;kitten,condition,,,,vignette response
 morality_and_cleanliness,Regression,dog;trolley;wallet;plane;resume;kitten,dog;trolley;wallet;plane;resume;kitten,,,make sure not to regress a variable with itself,vignette response
@@ -31,6 +33,7 @@ morality_and_cleanliness_long,Repeated Measures ANOVA,vignette_response,type,,,"
 pokedex,independent samples t-test,attack;defense;height_m;hp;sp_attack;sp_defense;speed,smaller_than_pikachu,,,,
 pokedex,independent samples t-test,attack;defense;height_m;hp;sp_attack;sp_defense;speed;weight_kg,is_legendary,,,,
 pokedex,ANOVA 1-way,attack;defense;height_m;hp;sp_attack;sp_defense;speed;weight_kg,type;generation,,,,
+pokedex,Contrast test,attack;defense;height_m;hp;sp_attack;sp_defense;speed;weight_kg,type;generation,,,,
 pokedex,ANOVA 2-way,attack;defense;height_m;hp;sp_attack;sp_defense;speed;weight_kg,type;is_legendary;generation,type;is_legendary;generation,,,
 pokedex,ANOVA 2-way,attack;defense;height_m;hp;sp_attack;sp_defense;speed,type;is_legendary;generation;smaller_than_pikachu,type;is_legendary;generation;smaller_than_pikachu,,,
 pokedex,Mann Whitney,attack;defense;height_m;hp;sp_attack;sp_defense;speed;weight_kg,is_legendary,,,,
@@ -39,10 +42,10 @@ pokedex,Spearman correlation,attack;defense;height_m;hp;percentage_male;sp_attac
 pokedex,Spearman correlation,attack;defense;height_m;hp;percentage_male;sp_attack;sp_defense;speed;weight_kg,growth_rate_number,,,,
 states,ANOVA 1-way,population;income;illiteracy;life_exp;murders;hs_grad;frost;area,region;division,,,,
 states,ANOVA 1-way,population;income;illiteracy;life_exp;murders;hs_grad;frost,area_group,,,,
+states,Contrast test,population;income;illiteracy;life_exp;murders;hs_grad;frost,region;division,,,,
+states,Contrast test,population;income;illiteracy;life_exp;murders;hs_grad;frost,area_group,,,,
 states,ANOVA 2-way,population;income;illiteracy;life_exp;murders;hs_grad;frost,region;division,area_group,,,
 states,Regression,population;income;illiteracy;life_exp;murders;hs_grad;frost;area,population;income;illiteracy;life_exp;murders;hs_grad;frost;area,,,,
 states,Spearman correlation,population;income;illiteracy;life_exp;murders;hs_grad;frost;area,population;income;illiteracy;life_exp;murders;hs_grad;frost;area,,,,
-morality_and_cleanliness,ANOVA 1-way,all_vignettes,condition,,,,
-morality_and_cleanliness,independent samples t-test,all_vignettes,condition,,,,
 stroop_long_a,paired t-test,latency,values_congruency,,,,
 stroop_long_b,Repeated Measures ANOVA,correct;latency,color,,,,
