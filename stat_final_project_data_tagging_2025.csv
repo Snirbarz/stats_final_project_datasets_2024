@@ -20,7 +20,6 @@ siegel_etal_2017_both_studies_b,ANOVA 2-way,mean_face_rating,gender,,handedness;
 unit_asking_replication_data,Regression,donate,age;math_score,,,,
 unit_asking_replication_data,ANOVA 2-way,donate,condition,female,,,
 unit_asking_replication_data,Contrast test,donate,condition,,,,
-unit_asking_replication_data,unit_asking_replication_data,,,,,,
 unit_asking_replication_data,independent samples t-test,math_score,female,,,,
 unit_asking_replication_data_long,paired t-test,donation_amount,donation_type,,,"two measures are ""how much would you donate for 1"" (unit_donate) and ""how much would you donate for 20"" (donate). Only condition 2 has both.",
 morality_and_cleanliness,ANOVA 1-way,dog;trolley;wallet;plane;resume;kitten;all_vignettes,condition,,,,vignette response
